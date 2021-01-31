@@ -1,0 +1,12 @@
+Few guidelines to follow:
+
+No new libraries are expected.
+There are 4 unit tests provided that should pass all the time.
+Your goal is to understand and improve/refactor the BookingApp.java code.
+The final working submission should be uploaded on GitHub and pass us the repository link.
+Code written allows for booking a Bus ticket or a Car ticket based on the type of ticket.
+There are three steps that are applicable to any type of booking.
+	Validate that all input fields are present.
+	Book the actual ticket based on the type. (Logic to book a Car ticket can be different than booking a Bus ticket).
+	On a successful booking, send an email to the traveler.
+You will need to refactor and improve the code based on your experience of how the booking code is functioning.
